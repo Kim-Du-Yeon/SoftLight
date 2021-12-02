@@ -10,7 +10,7 @@ Window 환경의 사용자들을 위한 가이드
 4. `TortoiseSVN` 설치
 5. `softlight` 폴더를 만들고 하위에 `build` 폴더를 만들기
 6. `cmake` 구성
-7. `"build/softlight/tests/Release"` 경로에 ddl 파일을 붙혀넣기
+7. `"build/softlight/tests/Release"` 경로에 dll 파일을 붙혀넣기
 8. `SoftLight.sln` 실행
 
 
