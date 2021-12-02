@@ -28,7 +28,7 @@ Window 환경의 사용자들을 위한 가이드
 4. `git submodule foreach git pull origin master`
 
 
-## 3) Visual Studio 2022를 설치
+## 3) `Visual Studio 2022`를 설치
 다음 그림과 같이 체크하고 설치해주세요.
 
 ![image](https://user-images.githubusercontent.com/91865644/144486940-f0da49bd-08bd-479c-8295-b17a0d5bc41c.png)
