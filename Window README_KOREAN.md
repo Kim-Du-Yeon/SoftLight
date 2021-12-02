@@ -4,14 +4,14 @@ Window 환경의 사용자들을 위한 가이드
 
 
 ## 실행 단계
-1. PC 세팅을 영어로 하기
-2. 리포지토리 복제
-3. `visual studio 2022` 설치
-4. `TortoiseSVN` 설치
-5. `softlight` 폴더를 만들고 하위에 `build` 폴더를 만들기
-6. `cmake` 구성
-7. `"build/softlight/tests/Release"` 경로에 dll 파일을 붙혀넣기
-8. `SoftLight.sln` 실행
+1) PC 세팅을 영어로 하기
+2) 리포지토리 복제
+3) `visual studio 2022` 설치
+4) `TortoiseSVN` 설치
+5) `softlight` 폴더를 만들고 하위에 `build` 폴더를 만들기
+6) `cmake` 구성
+7) `"build/softlight/tests/Release"` 경로에 dll 파일을 붙혀넣기
+8) `SoftLight.sln` 실행
 
 
 
