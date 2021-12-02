@@ -98,7 +98,7 @@ Window 환경의 사용자들을 위한 가이드
 
 
 
-## 7) `"build/softlight/tests/Release"` 경로에 `ddl` 파일을 붙혀넣기
+## 7) `"build/softlight/tests/Release"` 경로에 dll 파일을 붙혀넣기
 해당 경로의 파일을 복사해서 `"build/softlight/tests/Release"` 경로에 넣어줍니다.
 ![image](https://user-images.githubusercontent.com/91865644/144489374-01d739eb-f0cd-4d0e-89b8-c74c177f97bd.png)
 
