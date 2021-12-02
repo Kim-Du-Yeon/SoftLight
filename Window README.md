@@ -4,14 +4,14 @@ A guide for users in a window environment
 
 
 ## stage
-1. Setting up the PC in English
-2. Cloning the Repository
-3. `visual studio 2022` installation
-4. `TortoiseSVN` installation
-5. Create a `softlight` folder and make a sub-folder named `build`.
-6. `cmake` configuration
-7. Paste dll file in path `"build/softlight/tests/release"`
-8. Run `SoftLight.sln`
+1) Setting up the PC in English
+2) Cloning the Repository
+3) `visual studio 2022` installation
+4) `TortoiseSVN` installation
+5) Create a `softlight` folder and make a sub-folder named `build`.
+6) `cmake` configuration
+7) Paste dll file in path `"build/softlight/tests/release"`
+8) Run `SoftLight.sln`
 
 
 
